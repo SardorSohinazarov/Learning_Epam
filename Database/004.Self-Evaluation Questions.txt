@@ -1,0 +1,34 @@
+Self-Evaluation Questions
+
+What is a SQL query?
+What is Data Definition Language?
+What is Data Manipulation Language?
+Explain the difference between SELECT and SELECT DISTINCT queries.
+How to use SELECT without tables?
+How to use data from multiple tables in SELECT?
+Explain difference between JOIN, INNER JOIN, LEFT JOIN, RIGHT JOIN, INNER JOIN and FULL OUTER JOIN clause.
+How to grouping and sorting data?
+What are the SQL database functions?
+What aggregations functions do you know?
+How to use WHERE clause?
+How to use HAVING clause?
+What is a subquery?
+What is a VIEW?
+How to create, delete or modify a VIEW?
+How to use INSERT INTO .... SELECT statement?
+How to use UPDATE statement?
+What are User-defined functions (UDF)?
+How to use user-defined functions?
+What are Stored procedures?
+How to use Stored procedures?
+What is a NoSQL database?
+What are the advantages of NoSQL?
+What is eventual consistency?
+Is JSON a NoSQL?
+Does NoSQL have schema?
+What are the main differences between NoSQL and SQL?
+When should you use a NoSQL database?
+What are the 4 different types of NoSQL databases?
+What types of NoSQL databases do you know?
+Why NoSQL?
+When should NoSQL be used?

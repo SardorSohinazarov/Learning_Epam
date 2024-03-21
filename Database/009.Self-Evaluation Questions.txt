@@ -1,0 +1,14 @@
+Self-Evaluation Questions
+
+What is object-relational mapper?
+What is entity data model?
+What workflows does Entity Framework (EF) provide?
+EF configuration, connection strings, database initializers
+How to query data? LINQ to Entity.
+How to setup entity relations? Data annotations and Fluent API approaches.
+What is the difference between lazy and eager data loading?
+EF Code First migrations.
+How to create migration?
+How to delete migration?
+How to apply migration to the database?
+Data access design patterns, repository and unit of work.

@@ -1,0 +1,18 @@
+Self-Evaluation Questions
+
+What is Task class?
+What is ValueTask struct?
+How to return a value from Task?
+How to execute multiple Tasks?
+How to limit number of concurrent Tasks?
+How to cancel a Task using Cancellation Token?
+How to Create Synchronous Method using Task?
+How implement Retry Pattern?
+How implement Only One Pattern?
+How to Control the Result of a Task?
+What is Task-based Asynchronous Programming?
+How Chaining Tasks by Using Continuation Tasks?
+How to Cancel a Non-Cancellable Task?
+What are Asynchronous Streams?
+How to Cancel Asynchronous Stream?
+What are async and await keywords?

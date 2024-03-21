@@ -1,0 +1,32 @@
+Self-Evaluation Questions
+
+What is a Database?
+What is Data Base Management System?
+What is a Relational Database (E.F. Codd's relational model)?
+What is a Relational Database Management System (RDBMS)?
+What is a table(relation)?
+What is a Record or a Row (Tuple)?
+What is an attribute or a column?
+What is a field?
+What are SQL Constraints
+What are Primary Keys and Foreign Keys?
+What are Simple and Composite Keys?
+What are Natural Primary Key and Surrogate Primary Key?
+What is Database Normalization?
+What is First Normal Form?
+What is Second Normal Form?
+What is Third Normal Form?
+What are Anomalies in Data Bases?
+How to develop a model of the real world?
+How to design a table?
+What is ACID?
+What is SQL?
+What are data definition queries?
+How to create a table with relations using CREATE TABLE syntax and attribute data types?
+How to establish table indexes?
+What are One-to-many, One-to-one and Many-to-many relationships?
+How to use Cascading changes and Cascading Deleteion?
+What is Database Denormalization?
+What are transactions and how do they work?
+What are triggers and how do they work?
+What database object naming considerations do you know?

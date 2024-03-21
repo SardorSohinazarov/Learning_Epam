@@ -1,0 +1,22 @@
+Self-Evaluation Questions
+
+What is ADO.NET?
+What are primary components in ADO.NET?
+What are data providers?
+What are the data providers used in ADO.NET?
+What are data sources?
+What does DataReader Object do?
+Can we load multiple tables in a Dataset?
+What are the advantages of ADO.NET?
+Connection configuration.
+What are the ADO.NET connection pooling parameters?
+Connecting to data source.
+Querying, writing, modifying data.
+Different commands execution.
+Can we use stored procedure in ADO.NET?
+How to run a stored procedure?
+Why are stored procedures used in ADO.NET?
+What is the difference between DataReader and DataSet?
+What are transactions and how do they work?
+Working with offline data.
+What are the benefits of ADO.Net?
