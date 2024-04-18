@@ -1,0 +1,17 @@
+Self-Evaluation Questions
+
+What is Garbage Collection?
+What are strong references and weak references in GC?
+How GC come to know that object is ready to get collected?
+What are root references?
+What is LOH?
+What are generations in GC?
+How to force garbage collection?
+What is finalizer?
+How to manage unmanaged resources?
+What is difference between deterministic and non-deterministic resource cleanup
+What Object.Finalize method does?
+What is Dispose Method?
+finalizer (destructor), Dispose, Object.Finalize - how they relate to each other?
+What is Pattern Dispose?
+How and when to use using statement?

@@ -1,0 +1,15 @@
+Self-Evaluation Questions
+
+Which type of requirements do you know?
+What type of requirements is:
+performance?
+availability?
+What is monolithic architecture and when you should use it?
+What is multilayered architecture and when you should use it?
+What is onion architecture and when you should use it?
+What is the main disadvantage of MVC?
+What is the difference between MVC, MVP and MVVM?
+What is IoC and DI?
+What is an Ioc-container?
+How to apply the pattern Repository?
+How to apply the pattern Unit of Work?

@@ -1,0 +1,17 @@
+Self-Evaluation Questions
+
+Which type of relationships between classes do you know and when to choose each of them?
+When you should choose composition over inheritance?
+What is Inversion of Control?
+Describe SOLID.
+For which components in code you could apply SRP?
+Provide example of violation Liskov substitution principle.
+What is the difference between Inversion of Control and Dependency inversion principle and dependency injection?
+What is the minimum amount of signatures inside of interface according to ISP?
+Which GOF patterns do you know?
+What is the difference between:
+Factory method vs Builder
+Strategy vs Bridge
+Decorator vs Adapter
+When you should use Iterator pattern and how to implement it?
+When you should use Observer pattern and how to implement it?
